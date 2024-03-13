@@ -1,5 +1,7 @@
 # PARDIA: Python Real-time Image Analysis for Papyruses
 
+
+
 PARDIA is a simple yet open-source tool designed to use image processing capabilities, with a special focus on analyzing papyrus images. 
 Built with `Python` and `CustomTkinter`, it offers a user-friendly interface for performing various image operations, including morphological transformations and HSV color detection.
 
