@@ -18,7 +18,7 @@ Built with `Python` and `CustomTkinter`, it offers a user-friendly interface for
 - Simple Interface: Enjoy a clean and straightforward interface, making image processing accessible to everyone.
 
 ## Future Plans
-- We're always looking to add more features to PARDIA.
+- I'm looking to add more features to PARDIA in the future.
 - Adding linear filters
 - Laplacian, and Sobel Filters
 - Canny Edge Detection
