@@ -8,7 +8,7 @@ PARDIA is a simple yet open-source tool designed to use image processing capabil
 Built with `Python` and `CustomTkinter`, it offers a user-friendly interface for performing various image operations, including morphological transformations and HSV color detection.
 
 <div align="center">
-<img src="https://github.com/MateBerg/PARDIA/assets/69548206/79f688b6-a336-48f9-ac58-7a87738c2886" alt="mine_gif" width="350"/>
+<img src="https://github.com/MateBerg/PARDIA/assets/69548206/79f688b6-a336-48f9-ac58-7a87738c2886" alt="mine_gif" />
 </div> <br>
 
 ## Key Features
